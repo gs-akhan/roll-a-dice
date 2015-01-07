@@ -1,0 +1,25 @@
+{
+  "name": "roll-a-dice",
+  "version": "0.0.1",
+  "description": "Roll a Dice for fun",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "0.4.1",
+    "grunt-cli": "0.1.9",
+    "grunt-contrib-jshint": "*"
+  },
+  "scripts": {
+    "test": "grunt --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gs-akhan/roll-a-dice.git"
+  },
+  "keywords": ["Casino","Roll A Dice"],
+  "author": "Azhar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gs-akhan/roll-a-dice/issues"
+  },
+  "homepage": "https://github.com/gs-akhan/roll-a-dice"
+}
