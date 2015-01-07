@@ -1,9 +1,9 @@
 {
   "name": "roll-a-dice",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Roll a Dice for fun",
   "main": "index.js",
-  "dependencies": {
+  "devDependencies": {
     "grunt": "0.4.1",
     "grunt-cli": "0.1.9",
     "grunt-contrib-jshint": "*"
