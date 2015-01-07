@@ -1,5 +1,5 @@
 #!/usr/bin/env node
- 
+//Created by Azhar 
 function RollADice() {
 	this.cheatValue = void 0;
 }
